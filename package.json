@@ -1,0 +1,19 @@
+{
+  "name": "xiangxin-template-cli",
+  "version": "1.1.0",
+  "description": "生成模板文件",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danding",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs-extra": "^8.0.1",
+    "inquirer": "^6.3.1"
+  },
+  "bin": {
+    "xiangxin-template-cli": "./bin/template.js"
+  }
+}
