@@ -6,7 +6,7 @@
 
 ## 执行脚本
 
-`npm i minglin-template-cli --save-dev`
+`npm i xiangxin-template-cli --save-dev`
 
-`minglin-template-cli g`
+`xiangxin-template-cli g`
 
